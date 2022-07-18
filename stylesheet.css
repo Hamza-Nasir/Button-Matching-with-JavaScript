@@ -1,0 +1,12 @@
+body {
+    position: relative;
+}
+
+button {
+    
+    position: relative;
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 200px;
+    left: 40%;
+}
